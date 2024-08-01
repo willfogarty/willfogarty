@@ -1,0 +1,6 @@
+- Hi, I’m @willfogarty
+- I’m interested in Cyber Security
+- I’m currently learning Cyber Security at La Trobe University in Melbourne
+- I’m looking to broaden my understanding of coding and learning how to solve problems I encounter
+- How to reach me send me and email @wfogarty01@gmail.com 
+- Fun fact: The first language I learned was VB.NET when I was in 3rd grade. *im glad Python is a thing now.
